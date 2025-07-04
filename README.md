@@ -1,8 +1,7 @@
 # 📚 Library Management System (Python + PostgreSQL)
 
 A full-stack database application developed using **Python** and **PostgreSQL** to manage and track library resources and client interactions. The system includes a relational database, backend logic for common operations, and structured schema management to support efficient and scalable library operations.
-
-🔗 [View the GitHub Repository](https://github.com/ShariarN96/CS480--Library-management-system-database)
+📁 [See this project on my Portfolio]([https://shanenn.carrd.co/#section09](https://shanenn.carrd.co/#section08))
 
 ---
 
@@ -75,12 +74,6 @@ Python was used as the backend driver for database interactions. Using **psycopg
 ## 📬 Contact
 
 **Shahriar Namvar**  
-📧 snamva2@uic.edu  
 🌐 [Portfolio](https://shanenn.carrd.co)  
 🔗 [LinkedIn](https://www.linkedin.com/in/shanenn)
 
----
-
-## 📄 License
-
-MIT License
