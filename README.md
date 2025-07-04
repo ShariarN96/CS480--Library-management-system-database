@@ -1,7 +1,7 @@
 # 📚 Library Management System (Python + PostgreSQL)
 
 A full-stack database application developed using **Python** and **PostgreSQL** to manage and track library resources and client interactions. The system includes a relational database, backend logic for common operations, and structured schema management to support efficient and scalable library operations.
-📁 [See this project on my Portfolio]([https://shanenn.carrd.co/#section09](https://shanenn.carrd.co/#section08))
+📁 [See this project on my Portfolio](https://shanenn.carrd.co/#section08)
 
 ---
 
