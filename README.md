@@ -26,7 +26,7 @@ These requirements were translated into:
 
 The database structure was first designed using an **Entity-Relationship diagram**, defining all key entities and their relationships.
 
-![ER Diagram](ER diagram.png)
+![ER Diagram](ER_diagram.png)
 
 ---
 
